@@ -2,6 +2,8 @@
 
 Simple Hulu Clone working with TheMovieDB API and Next.js.
 
+![Screenshot of the project](./Screenshot.png)
+
 ## Usage
 
 1. Clone the repo.
